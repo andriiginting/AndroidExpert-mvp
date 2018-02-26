@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorPurple">#9C27B0</color>
+    <color name="bg_color_button_unguMuda">#B39DDB</color>
+
+    <color name="abuGojek">#424242</color>
+    <color name="hijauGojek">#4CAF50</color>
 </resources>

@@ -1,3 +1,54 @@
 <resources>
-    <string name="app_name">AndroidExpert-MVP</string>
+    <string name="app_name">Android Expert</string>
+
+    <string name="cari_film">Search your Movie Here</string>
+    <string name="MOVIE_API_KEY">f38bc9d1907b81b6b4f890fc62c73a61</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_ui">Catalogue Movie Go-Jek </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="up_coming">Up Coming</string>
+    <string name="home">Home</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="settings">Settings</string>
+    <string name="communicate">Communicate</string>
+    <string name="first_project">First Project</string>
+    <string name="detail">Detail</string>
+    <string name="share">Share</string>
+    <string name="favorite_movie">Favorite Movie</string>
+    <string name="ini_judul_hint">ini judul</string>
+    <string name="ini_subtittle_hint">ini subtittle</string>
+    <string name="ini_deskripsi_hint">ini deskripsi</string>
+    <string name="search_btn">Search</string>
+    <string name="ini_tanggal_rilis_hint">Ini Tanggal Rilis</string>
+    <string name="owner">Andri Suranta Ginting</string>
+    <string name="email_owner">andris.ginting@gmail.com</string>
+    <string name="btn_favorite">Mark As Favorite</string>
+    <string name="btn_non_favorite">Un Mark As Favorite</string>
+    <string name="movie_add_snackbar">Movie Added</string>
+    <string name="movie_delete_snackbar">Movie Deleted</string>
+    <string name="appwidget_text">Favorite Movie</string>
+    <string name="empty_text">Empty Movie</string>
+    <string name="add_widget">Add widget</string>
+
+
+    <string name="tv_setting_notification">Notification</string>
+    <string name="tv_setting_daily_reminder_notification">Daily Reminder Notification</string>
+    <string name="tv_setting_turn_on_off_daily_reminder">Turn on/off daily reminder</string>
+    <string name="tv_setting_upcoming_reminder_notification">Upcoming Reminder Notification</string>
+    <string name="tv_setting_turn_on_off_upcoming_reminder">Turn on/off upcoming reminder</string>
+    <string name="tv_setting_settings">Settings</string>
+    <string name="tv_setting_locale">Setting Language</string>
+    <string name="tv_setting_change_your_phone_localization">Change your phone localization</string>
+    <string name="message_setup_upcoming">Upcoming Task set up</string>
+    <string name="message_cancel_upcoming">Upcoming Task Cancel</string>
+    <string name="message_setup_daily">DailyReminder set up</string>
+    <string name="message_cancel_daily">Repeating alarm cancel</string>
+    <string name="message_notif_daily">Catalogue Movie is missing you&#8230;</string>
 </resources>

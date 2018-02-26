@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_upcoming"
+            android:icon="@drawable/clapperboard"
+            android:title="@string/home" />
+        <item
+            android:id="@+id/nav_favorit"
+            android:icon="@drawable/star"
+            android:title="@string/favorite_movie"/>
+        <item
+            android:id="@+id/nav_setting"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/settings" />
+    </group>
+
+    <item android:title="@string/communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_first_project"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/first_project" />
+        </menu>
+    </item>
+</menu>
